@@ -4,7 +4,8 @@ Hi! I'm Angus. I have an academic background and have a Bachelors of Science deg
 
 ## LSE Data Analytics Career Accelerator Projects
 ### Course 1: Analytics for Business
-In this course of the programme, we utilised Microsoft Excel, SQL and Tableau to clean data, perform an exploratory analysis and visualise findings for the supermarket 2Market. In this project, the client has asked us to determine which demographics, which products and which marketing channels are the most popular/effective. <br> 
+In this course of the programme, we utilised Microsoft Excel, SQL and Tableau to clean data, perform an exploratory analysis and visualise findings for the supermarket 2Market. In this project, the client has asked us to determine which demographics, which products and which marketing channels are the most popular/effective. <br>
+Written report [here.](https://github.com/AngusRatski/Angus_Ratcliffe_DA101_Assignment/blob/main/2Market_Assignment_C1.pdf) <br>
 SQL scripts [here.](https://github.com/AngusRatski/Angus_Ratcliffe_DA101_Assignment/blob/main/2Market_C1.sql) <br>
 Tableau dashboard download [here.](https://github.com/AngusRatski/Angus_Ratcliffe_DA101_Assignment/blob/main/2Market_C1.twbx)
 
